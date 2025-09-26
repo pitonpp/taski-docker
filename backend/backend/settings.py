@@ -12,7 +12,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '89.169.189.154',
     'superiortasktracker.zapto.org',
-    'kittygram3000.duckdns.org',
+    # 'kittygram3000.duckdns.org',
     '127.0.0.1'
 ]
 
